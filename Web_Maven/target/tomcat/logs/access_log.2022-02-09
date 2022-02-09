@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Feb/2022:09:22:45 +0800] "GET /Maven004AAAA HTTP/1.1" 302 - http-bio-8888-exec-1 0
+127.0.0.1 - - [09/Feb/2022:09:22:45 +0800] "GET /Maven004AAAA/ HTTP/1.1" 200 52 http-bio-8888-exec-2 90
+127.0.0.1 - - [09/Feb/2022:09:22:45 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-3 0
+127.0.0.1 - - [09/Feb/2022:09:22:54 +0800] "GET /Maven004AAAA/login.jsp HTTP/1.1" 200 1501 http-bio-8888-exec-4 1102
+127.0.0.1 - - [09/Feb/2022:09:22:54 +0800] "GET /Maven004AAAA/css/css.css HTTP/1.1" 200 53 http-bio-8888-exec-5 4
+127.0.0.1 - - [09/Feb/2022:09:22:57 +0800] "POST /Maven004AAAA/login.do HTTP/1.1" 200 4119 http-bio-8888-exec-6 1287
+127.0.0.1 - - [09/Feb/2022:09:25:47 +0800] "GET /Maven004AAAA HTTP/1.1" 302 - http-bio-8888-exec-1 0
+127.0.0.1 - - [09/Feb/2022:09:25:47 +0800] "GET /Maven004AAAA/ HTTP/1.1" 200 52 http-bio-8888-exec-2 47
+127.0.0.1 - - [09/Feb/2022:09:25:47 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-3 0
+127.0.0.1 - - [09/Feb/2022:09:25:54 +0800] "GET /Maven004AAAA/login.jsp HTTP/1.1" 200 1501 http-bio-8888-exec-5 35
+127.0.0.1 - - [09/Feb/2022:09:25:54 +0800] "GET /Maven004AAAA/css/css.css HTTP/1.1" 200 53 http-bio-8888-exec-6 4
+127.0.0.1 - - [09/Feb/2022:09:25:56 +0800] "POST /Maven004AAAA/login.do HTTP/1.1" 200 4119 http-bio-8888-exec-8 340
